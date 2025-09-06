@@ -1,0 +1,7 @@
+# Ignore compiled binaries
+*
+!*/
+!*.c
+!*.h
+!README.md
+!.gitignore
